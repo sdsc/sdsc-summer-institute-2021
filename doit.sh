@@ -1,0 +1,15 @@
+#!/bin/bash
+
+3.1a._Scientific_Visualization_for_mesh_based_data_with_Visit
+3.1b._Machine_Learning_Overview
+3.2._Lightning_Rounds
+4.1a._GPU_Computing_and_Programming
+4.1b._Scalable_Machine_Learning
+4.2a._Parallel_Computing_using_MPI_and_OpenMP
+4.2b._Deep_Learning
+5.1._An_Intro_to_Singularity_Container_for_Scientific_and_HPC
+5.2._Data_Sharing_via_SeedMeLab
+5.3._Open_Science_Chain_Protecting_Data_Integrity_with_Open_Science_Chain
+5.4._Voyager
+5.5._Composable_Systems
+5.6._CloudBank
