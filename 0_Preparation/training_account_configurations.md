@@ -15,7 +15,7 @@ Institute satff will provide instructions for installing miniconda for the works
 **CHECK THIS**
 You have been set up with a default user environment: you do not need have a .bashrc file. You will see the code in these folder *by default*
 * link to /cms
-* link to singularity for CIML
+* link to singularity for SDSC SI20
 
 ## Node Reservations:
 
