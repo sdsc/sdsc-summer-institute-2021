@@ -55,11 +55,6 @@ It has been suggested that a second monitor may be helpful during online instruc
 [Back to Top](#top)
 <hr>
 
-
-
-[Back to Top](#top)
-<hr>
-
 ## Software Requirements: <a name="software"></a>
 The document below contains a list of software being used at the institute and installation instructions:
 * [Software_Requirements](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/software_requirements.md)
@@ -76,6 +71,7 @@ https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_sk
 * [Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
 * [How to Run Notebooks on Expanse](https://hpc-training.sdsc.edu/notebooks-101/)
 * [Using GitHub on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github)
+* WATCH - [Indispensable Security: Tips to Use SDSC's HPC Resources Securely](https://education.sdsc.edu/training/interactive/202007_security_tips/index.php)
 
 [Back to Top](#top)
 <hr>
