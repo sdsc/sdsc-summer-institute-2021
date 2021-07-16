@@ -6,8 +6,6 @@ To help you get the most out of this workshop, this section contains a set of de
 <a name="top">Contents
 * [Expanse User Guide](#expanse-guide)
 * [Account Requirements](#accounts)
-   * [Logging onto Expanse training account](#logon-expanse)
-   * [Logging onto the Expanse Portal](#logon-portal)
    * [Configuring Your Training Account](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/training_account_configurations.md)
 * [Computer and Laptop Set-up](#computer-req)
 * [Remote access via GitHub, Zoom, and Slack](#remote)
@@ -21,14 +19,10 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 [Back to Top](#top)
 <hr>
 
-##  Accounts: <a name="accounts"></a>
-### Logging onto Expanse training account: <a name="logon-expanse"></a>
-* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the preparation day, Wednesday, July 28.
-
-### Logging onto the Expanse Portal: <a name="logon-portal"></a>
-* This section will be covered on Monday, August 2, 2021: 1.3 Expanse & Expanse User Portal.
+##  Account Requirements: <a name="accounts"></a>
+* You will be given an account on the SDSC Expansecomputer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
 * XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own.
-* Once you have received your expanse account information, please go to https://portal.expanse.sdsc.edu, to confirm your login.
+* Once you have received your Expanse account please complete the process of activating the account prior to preparation day. Go to https://portal.expanse.sdsc.edu, to confirm your login.
 
 [Back to Top](#top)
 <hr>
