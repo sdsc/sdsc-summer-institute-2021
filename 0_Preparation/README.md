@@ -20,7 +20,7 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 <hr>
 
 ##  Account Requirements: <a name="accounts"></a>
-* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the institute begins.
+* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the prep day begins.
 * XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own.
 * Once you have received your Expanse account please complete the process of activating the account prior to preparation day. Go to https://portal.expanse.sdsc.edu, to confirm your login.
 
