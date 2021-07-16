@@ -58,8 +58,7 @@ The document below contains a list of software being used at the institute and i
 ### Preparation Activities: <a name="prep-activities"></a>
 The Summer Institute is a combination of in-depth lectures and hands-on learning. The following documents will guide you through the necessary steps needed to be prepared to get to work when you arrive at the Institute.
 
-See the Basic HPC Skills
-
+Basic HPC Skills
 * [Connecting to HPC Systems](https://github.com/sdsc-hpc-training-org/hpc-security/blob/master/connecting-to-hpc-systems/connect-to-expanse.md)
 * [Basic_Linux_Skills](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills)
 * [Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
