@@ -4,32 +4,15 @@ You will get the most out of the SDSC Summer Institute if you are prepared prior
 To help you get the most out of this workshop, this section contains a set of detailed start-up instructions, beginning with setting up your account and connecting to Expanse, to configuring your laptop for running visualization software. Please read the documents and exercises carefully, and complete all necessary steps before event. Feel free to ask questions or if you have any problems with the start-up tasks
 
 <a name="top">Contents
-* [Prep Day Schedule](#prep-day)
 * [Expanse User Guide](#expanse-guide)
 * [Computer and Laptop Set-up](#computer-req)
 * [Account Requirements](#accounts)
    * [Logging onto Expanse training account](#logon-expanse)
    * [Logging onto the Expanse Portal](#logon-portal)
    * [Configuring Your Training Account](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_preparation/training_account_configurations.md)
-* [Remote access via Zoom, Slack, and GitHub](#remote)
-  * [Zoom](#zoom)
-  * [Slack](#slack)
-  * [Github Account](#github)
+* [Remote access via GitHub, Zoom, and Slack](#remote)
 * [Software Requirements](#software)
 * [Other BasicSkills](#other-skills)
-
-
-## Prep Day Schedule (7/28/2021, 9-11 am): <a name="prep-day"></a>
-
-| **TIME (PST)**       | **TOPIC** | **PRESENTER** |
-| -------------------- | ----------- | ----------- |
-| 9:00 AM - 9:10 AM	 | Welcome  | [presenter](#tbd) |
-| 9:10 AM – 9:40 AM	 | Accounts, Login, Environment, Running Jobs  | [presenter](#tbd) |
-| 9:40 AM – 10:10 AM | Installing miniconda, Running Jupyter Notebooks  | [presenter](#tbd) |
-| 10:10 AM – 10:40 AM | Hands-on - Confirm conda installation (mini-conda)  | [presenter](#tbd) |
-| 10:40 AM – 11:00 AM	 | Q&A, Wrap-up  | all |
-
-Note: if you have any difficulties getting set up, please contact Institute staff at consult@sdsc.edu.
 
 ## Expanse User Guide <a name="expanse-guide"></a>
 Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
