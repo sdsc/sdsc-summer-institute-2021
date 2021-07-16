@@ -6,7 +6,7 @@ To help you get the most out of this workshop, this section contains a set of de
 <a name="top">Contents
 * [Expanse User Guide](#expanse-guide)
 * [Account Requirements](#accounts)
-   * [Configuring Your Training Account](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/training_account_configurations.md)
+   * [Configuring your Training Account](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/training_account_configurations.md)
 * [Computer and Laptop Set-up](#computer-req)
 * [Remote access via GitHub, Zoom, and Slack](#remote)
 * [Software Requirements](#software)
