@@ -14,7 +14,7 @@ Some sessions require that customized software be installed on **your laptop**. 
 
 ### Using GitHub<a name="github"></a>
 
-See this quick-start guide: https://github.com/sdsc/sdsc-summer-institute-2021/tree/master/0_preparation/using_github
+See this quick-start guide: https://github.com/sdsc/sdsc-summer-institute-2021/tree/master/0_Preparation/using_github
 
 [Back to Top](#top)
 <hr>
