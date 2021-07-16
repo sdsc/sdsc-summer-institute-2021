@@ -5,3 +5,25 @@ To help you get the most out of your week, this section contains a set of detail
 
 ## Preparation Activities:
 The Summer Institute is a combination of in-depth lectures and hands-on learning. The following documents will guide you through the necessary steps needed to be prepared to get to work when you arrive at the Institute.
+
+##  Computer Requirements:
+
+* You will need to bring your own laptop for the summer institute. This will be used both for running software locally and connecting to SDSC’s supercomputers.
+* For visualization tutorial a mouse with scroll wheel is highly recommended (laptop track pads are very difficult to use for 3D navigation).
+
+##  Account Requirements:
+
+* You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the preparation day on Wednesday, July 28. 
+
+## Software Requirements:
+The document below contains a list of software being used at the institute and installation instructions:
+* [software_requirements.md] (link coming soon)
+
+## Preparation Activities:
+
+The Summer Institute is a combination of in-depth lectures and hands-on learning. The following documents and videos will guide you through the necessary steps needed to be prepared to get to work when you arrive at the Institute.
+
+* [getting_stared] (link coming soon)
+* [basic_linux_skills] (link coming soon)
+* Video: [Indispensable Security: Tips to Use SDSC's HPC Resources Securely](https://education.sdsc.edu/training/interactive/202007_security_tips/index.php)
+
