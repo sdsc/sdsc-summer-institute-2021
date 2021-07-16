@@ -31,7 +31,7 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 * After you access your account information, confirm that you can login (SSH) to Expanse using the device you plan to use during the SDSC Summer Institute (laptop, workstation, etc...).  Detailed instructions on connecting to Expanse using SSH can be found [here](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/connecting-to-hpc-systems).  
 * For visualization tutorial a mouse with scroll wheel is highly recommended (laptop track pads are very difficult to use for 3D navigation).
 
-It has been suggested that a second monitor may be helpful during online instruction.  While one monitor could be used to follow instruction, the other for the hands-on.  Additionally, the use of a mouse may be beneficial as well during some sessions.
+It has been suggested that a second monitor may be helpful during online instruction.  While one monitor could be used to follow instruction, the other for the hands-on.
 
 [Back to Top](#top)
 <hr>
