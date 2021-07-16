@@ -62,7 +62,7 @@ It has been suggested that a second monitor may be helpful during online instruc
 
 ## Software Requirements: <a name="software"></a>
 The document below contains a list of software being used at the institute and installation instructions:
-* [Software_Requirements](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_preparation/software_requirements.md)
+* [Software_Requirements](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/software_requirements.md)
 
 [Back to Top](#top)
 <hr>
