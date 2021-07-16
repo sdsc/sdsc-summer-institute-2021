@@ -27,3 +27,15 @@ The Summer Institute is a combination of in-depth lectures and hands-on learning
 * [basic_linux_skills] (link coming soon)
 * Video: [Indispensable Security: Tips to Use SDSC's HPC Resources Securely](https://education.sdsc.edu/training/interactive/202007_security_tips/index.php)
 
+## Remote access via GitHub, Zoom, and Slack
+
+* GitHub: Most of the training material will be located on the SDSC Summer Institute 2021 [GitHub repo](https://github.com/sdsc/sdsc-summer-institute-2021) and one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
+
+* Zoom: You will need to install the latest [Zoom](https://zoom.us/download) client, which is available for Windows, MacOS and Linux. Once installed, you can test your microphone and camera interface with Zoom [here](https://zoom.us/test). You can find more information on Zoom system requirements, including bandwidth requirements [here](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux).  
+  * To ensure the security of our Zoom links, details will be sent to all participants just prior to preparation day (July 28) and again prior to the Summer Institute week (August 2 - 6).  
+  * When setting up your “display name” on Zoom, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC)) 
+
+* Slack: We will also be using Slack as our main platform for announcements, where participants can communicate and ask for help. Download ([Windows](https://slack.com/downloads/windows), [MacOS](https://slack.com/downloads/mac), or [Linux](https://slack.com/downloads/linux) and get [started](https://slack.com/help/articles/218080037-Getting-started-for-new-Slack-users).  Zoom chat will be disabled. Make sure to turn on your notifications to receive alerts. 
+  * Once you have downloaded the client, join the "SI-SDSC-2021 workspace". See "Preparation & Exercise" email for invite link.  
+  * When setting up your “display name” on Slack, please list your FIRST name, LAST name, and institution (i.e., Jane Doe (SDSC)) 
+
