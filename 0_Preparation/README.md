@@ -55,7 +55,7 @@ The document below contains a list of software being used at the institute and i
 [Back to Top](#top)
 <hr>
 
-### Preparation Activities: <a name="prep-activities"></a>
+## Preparation Activities: <a name="prep-activities"></a>
 The Summer Institute is a combination of in-depth lectures and hands-on learning. The following documents will guide you through the necessary steps needed to be prepared to get to work when you arrive at the Institute.
 
 Basic HPC Skills
