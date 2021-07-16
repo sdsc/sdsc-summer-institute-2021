@@ -19,7 +19,7 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Other BasicSkills](#other-skills)
 
 
-## Prep Day Schedule (6/18/2021, 9-11 am): <a name="prep-day"></a>
+## Prep Day Schedule (7/28/2021, 9-11 am): <a name="prep-day"></a>
 
 | **TIME (PST)**       | **TOPIC** | **PRESENTER** |
 | -------------------- | ----------- | ----------- |
