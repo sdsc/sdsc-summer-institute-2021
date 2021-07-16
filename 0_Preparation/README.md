@@ -8,7 +8,7 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Account Requirements](#accounts)
    * [Logging onto Expanse training account](#logon-expanse)
    * [Logging onto the Expanse Portal](#logon-portal)
-   * [Configuring Your Training Account](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_preparation/training_account_configurations.md)
+   * [Configuring Your Training Account](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/training_account_configurations.md)
 * [Computer and Laptop Set-up](#computer-req)
 * [Remote access via GitHub, Zoom, and Slack](#remote)
 * [Software Requirements](#software)
@@ -67,7 +67,7 @@ See the [Basic HPC Skills repo](https://github.com/sdsc-hpc-training-org/basic_s
 https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills
 
 * [Connecting to HPC Systems](https://github.com/sdsc-hpc-training-org/hpc-security/blob/master/connecting-to-hpc-systems/connect-to-expanse.md)
-* [Basic_Linux_Skills](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_preparation/basic_linux_skills)
+* [Basic_Linux_Skills](https://github.com/sdsc/sdsc-summer-institute-2020/tree/master/0_Preparation/basic_linux_skills)
 * [Interactive Computing](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/interactive_computing)
 * [How to Run Notebooks on Expanse](https://hpc-training.sdsc.edu/notebooks-101/)
 * [Using GitHub on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github)
