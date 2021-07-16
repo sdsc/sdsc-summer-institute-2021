@@ -10,7 +10,7 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Computer and Laptop Set-up](#computer-req)
 * [Remote access via GitHub, Zoom, and Slack](#remote)
 * [Software Requirements](#software)
-* [Other BasicSkills](#other-skills)
+* [Preparation Activities](#prep-activities)
 
 ## Expanse User Guide <a name="expanse-guide"></a>
 Please read the Expanse user guide and familiarize yourself with the hardware, file systems, batch job submission, compilers and modules. The guide can be found here:
@@ -21,7 +21,6 @@ Please read the Expanse user guide and familiarize yourself with the hardware, f
 
 ##  Account Requirements: <a name="accounts"></a>
 * You will be given an account on the SDSC Expanse computer. Information on the account will be sent to you via email. Please complete the process of activating your account before the prep day begins.
-* XSEDE training accounts to access the Expanse portal have already been created for you. Please do not create a new one on your own.
 * Once you have received your Expanse account please complete the process of activating the account prior to preparation day. Go to https://portal.expanse.sdsc.edu, to confirm your login.
 
 [Back to Top](#top)
@@ -56,7 +55,9 @@ The document below contains a list of software being used at the institute and i
 [Back to Top](#top)
 <hr>
 
-### Basic Skills <a name="other-skills"></a>
+### Preparation Activities: <a name="prep-activities"></a>
+The Summer Institute is a combination of in-depth lectures and hands-on learning. The following documents will guide you through the necessary steps needed to be prepared to get to work when you arrive at the Institute.
+
 See the [Basic HPC Skills repo](https://github.com/sdsc-hpc-training-org/basic_skills)
 https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills
 
