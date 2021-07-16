@@ -27,7 +27,7 @@ The Summer Institute is a combination of in-depth lectures and hands-on learning
 * [basic_linux_skills] (link coming soon)
 * Video: [Indispensable Security: Tips to Use SDSC's HPC Resources Securely](https://education.sdsc.edu/training/interactive/202007_security_tips/index.php)
 
-## Remote access via GitHub, Zoom, and Slack
+## Remote access via GitHub, Zoom, and Slack:
 
 * GitHub: Most of the training material will be located on the SDSC Summer Institute 2021 [GitHub repo](https://github.com/sdsc/sdsc-summer-institute-2021) and one of the Thursday hands-on sessions will require a GitHub account. If you do not already have one, you can create a free personal GitHub account [here](https://docs.github.com/en/github/getting-started-with-github/signing-up-for-github/signing-up-for-a-new-github-account).   
 
