@@ -1,21 +1,12 @@
 # Preparing for the Summer Institute: Software Requirements
 Some sessions require that customized software be installed on **your laptop**. Please perform the following software installations and file downloads prior to the event. <br/> *Note: several of the preparation activities will provide information and guidance on how to install the required software components.*
 
-** Last update:  7/16/2021; more updates expected
-
-## Contents <a name="top"></a>
-
- 
- * [Preparation: Using GitHub](#github)
- * [Parallel session: Scientific visualization with Visit ](#visit)
- * [Plenary session: SeedMeLab: Creating data centric websites for researchers and research projects](#seedme)
-
+** Last update:  7/20/2021; more updates expected
 
 ### Using GitHub<a name="github"></a>
 
 See this quick-start guide: https://github.com/sdsc/sdsc-summer-institute-2021/tree/master/0_Preparation/using_github
 
-[Back to Top](#top)
 <hr>
 
 ### Scientific visualization with Visit (scheduled opposite Machine Learning Overview) <a name="visit"></a>
@@ -31,8 +22,6 @@ Participants who will be attending the Scientific visualization with Visit sessi
 * Test run VisIt application on your laptop to make sure it works
 
 * [Download](http://users.sdsc.edu/~amit/scivis-tutorial/visit_data_files.zip) sample data. Unzip to your Home directory.
-
-[Back to Top](#top)
 
 
 
