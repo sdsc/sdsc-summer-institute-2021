@@ -36,26 +36,18 @@ Participants who will be attending the Scientific visualization with Visit sessi
 
 * Computer, a mouse with scroll wheel is strongly recommended.
 
-* [Download](https://wci.llnl.gov/simulation/computer-codes/visit/executables) and install VisIt. Please do not compile from source unless you are adventurous.
-   ** On Mac OS Mojave install version 3.1.2
-   ** On all other Operating systems install version 3.0.1.
-
+* [Download](https://visit-dav.github.io/visit-website/releases-as-tables/) and install VisIt. Please do not compile from source unless you are adventurous.
+   ** Install version 3.2.1
+   ** Mac users will need to grant VisIt permissions to read files from locations other than home directory (System preferences > Privacy > Full disk access) 
+   
 * Test run VisIt application on your laptop to make sure it works
 
-* Download sample data: [visit_data_files.tar.gz](https://wci.llnl.gov/content/assets/docs/simulation/computer-codes/visit/visit_data_files.tar.gz). Unzip to your desktop
+* Download sample data: [visit_data_files.tar.gz](https://wci.llnl.gov/content/assets/docs/simulation/computer-codes/visit/visit_data_files.tar.gz). Unzip to your Home directory.
 
 [Back to Top](#top)
 
-** NEED TO UPDATE THIS LINK **.  http://users.sdsc.edu/~amit/comet/visit3.0.x-comet-host-profile.zip
-* Download [Expanse host profile for VisIt-3.0.x](http://users.sdsc.edu/~amit/comet/visit3.0.x-comet-host-profile.zip).
-    Unzip and copy this file as follows
-    Linux and Mac: ~/.visit/hosts/
-    Windows: C:/users/username/Documents/visit/hosts/
-    Restart VisIt
     
  [Back to Top](#top)
     
-### Plenary session: SeedMeLab: Creating data centric websites for researchers and research projects <a name="seedme"></a>
-* **DO WE NEED THIS??? **
-* Latest web browser is needed for this session.
+
 
