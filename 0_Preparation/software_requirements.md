@@ -23,6 +23,3 @@ Participants who will be attending the Scientific visualization with Visit sessi
 
 * [Download](http://users.sdsc.edu/~amit/scivis-tutorial/visit_data_files.zip) sample data. Unzip to your Home directory.
 
-
-
-
