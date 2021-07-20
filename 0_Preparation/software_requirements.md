@@ -42,7 +42,7 @@ Participants who will be attending the Scientific visualization with Visit sessi
    
 * Test run VisIt application on your laptop to make sure it works
 
-* Download sample data: [visit_data_files.tar.gz](https://wci.llnl.gov/content/assets/docs/simulation/computer-codes/visit/visit_data_files.tar.gz). Unzip to your Home directory.
+* [Download](http://users.sdsc.edu/~amit/scivis-tutorial/visit_data_files.zip) sample data. Unzip to your Home directory.
 
 [Back to Top](#top)
 
