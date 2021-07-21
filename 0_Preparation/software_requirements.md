@@ -9,7 +9,7 @@ See this quick-start guide: https://github.com/sdsc/sdsc-summer-institute-2021/t
 
 <hr>
 
-### Scientific visualization with Visit (scheduled opposite Machine Learning Overview) <a name="visit"></a>
+### Scientific visualization with Visit <a name="visit"></a>
 
 Participants who will be attending the Scientific visualization with Visit session should make the following preparations.
 
