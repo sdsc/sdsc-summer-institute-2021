@@ -16,8 +16,10 @@ Participants who will be attending the Scientific visualization with Visit sessi
 * Computer, a mouse with scroll wheel is strongly recommended.
 
 * [Download](https://visit-dav.github.io/visit-website/releases-as-tables/) and install VisIt. Please do not compile from source unless you are adventurous.
-   ** Install version 3.2.1
-   ** Mac users will need to grant VisIt permissions to read files from locations other than home directory (System preferences > Privacy > Full disk access) 
+
+   ** Install version 3.2.1 for windows and linux and 3.2.0 for mac using the dmg installer
+
+   ** Mac users may need to grant VisIt permissions to read files from locations other than home directory (System preferences > Privacy > Full disk access) 
    
 * Test run VisIt application on your laptop to make sure it works
 
