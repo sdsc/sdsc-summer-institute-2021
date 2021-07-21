@@ -15,10 +15,7 @@ Participants who will be attending the Scientific visualization with Visit sessi
 
 * Computer, a mouse with scroll wheel is strongly recommended.
 
-* [Download](https://visit-dav.github.io/visit-website/releases-as-tables/) and install VisIt. Please do not compile from source unless you are adventurous and ready to troubleshoot for multiple days.
-
-   * On Windows/Linux install version 3.2.1
-   * On Mac install version 3.2.0 using the dmg installer.
+* [Download](https://visit-dav.github.io/visit-website/releases-as-tables/) and install VisIt version 3.1.4 (not the latest). Please do not compile from source unless you are adventurous and ready to troubleshoot for multiple days.
    
 * Test run VisIt application on your laptop to make sure it works
 
