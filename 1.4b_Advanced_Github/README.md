@@ -15,3 +15,7 @@ The class will be hands-on, we will go through a complex exercise together and a
 >>>>>>> material for advanced Git/Github
 
 You should be already familiar with creating Pull Requests, merging and rebasing branches
+
+### Prerecorded screencasts
+
+[Youtube playlist](https://www.youtube.com/playlist?list=PLSO-KmvudTTtQ19g7ATjnIJja2EsC2dQN)
