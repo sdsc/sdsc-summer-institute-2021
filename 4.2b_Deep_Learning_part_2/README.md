@@ -1,4 +1,4 @@
-## 4.2b. Deep Learning Part 2: 
+## 4.2b. Deep Learning (Part 2): 
 * Mai Nguyen, Lead for Data Analytics, SDSC 
 * Paul Rodriguez, Research Analyst, SDSC 
 
