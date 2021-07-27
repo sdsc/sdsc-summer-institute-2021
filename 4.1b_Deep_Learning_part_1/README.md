@@ -1,4 +1,5 @@
-## 4.1b. Deep Learning 
+## 4.1b. Deep Learning (Part 1)
+
 * Mai Nguyen, Lead for Data Analytics, SDSC 
 * Paul Rodriguez, Research Analyst, SDSC 
 
