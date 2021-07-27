@@ -1,0 +1,5 @@
+## 4.1b. Deep Learning 
+* Mai Nguyen, Lead for Data Analytics, SDSC 
+* Paul Rodriguez, Research Analyst, SDSC 
+
+Deep learning, a subfield of machine learning, has seen tremendous growth and success in the past few years. Deep learning approaches have achieved state-of-the-art performance across many domains, including image classification, speech recognition, and biomedical applications. Deep learning makes use of models that are composed of many layers of interconnected processing units. The many layers allow for a deep network to learn representations of data at multiple and increasingly complex and task-specific levels of abstraction, leading to automatic feature learning and excellent prediction performance. This session provides an introduction to deep learning concepts and approaches. Case studies utilizing deep learning will be presented, and hands-on exercises will be covered using Keras. Please note: Knowledge of fundamental machine learning concepts and techniques is required.
