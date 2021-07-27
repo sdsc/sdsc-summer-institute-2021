@@ -1,4 +1,4 @@
-## 4.1b. Scalable Machine Learning 
+## 3.1b. Scalable Machine Learning 
 * Mai Nguyen, Lead for Data Analytics, SDSC 
 * Paul Rodriguez, Research Analyst, SDSC 
 
