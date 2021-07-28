@@ -38,7 +38,7 @@ Resolving deltas: 100% (93/93), done.
 ```
 
 ## Load the ENV path to galyleo.sh
-``
+```
 export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 ```
 
