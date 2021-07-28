@@ -44,6 +44,8 @@ export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 
 ## Launch a notebook using the galyleo client:
 
+### Launch on a CPU:
+
 * Here is the command you will run. Copy the entire line. You will need to update key parameters such as the *account*, the *notebook-dir*:
 ```
 galyleo.sh launch --account 'crl155' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
