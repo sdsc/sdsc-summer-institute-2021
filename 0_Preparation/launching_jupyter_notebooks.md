@@ -1,6 +1,6 @@
 # SDSC 2021 Summer Institute:  
 #
-## Launching Jupyter Notebooks on Expanse from training accounts
+## Launching Jupyter Notebooks on Expanse
 This file contains information needed to launch Juptyer
 Notebooks from your training accounts, on Expanse, using 
 the Satellite client called "galyleo"
