@@ -37,6 +37,10 @@ Receiving objects: 100% (305/305), 11.23 MiB | 19.43 MiB/s, done.
 Resolving deltas: 100% (93/93), done.
 ```
 
+## Load the ENV path to galyleo.sh
+``
+export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
+```
 
 ## Launch a notebook using the galyleo client:
 ```
