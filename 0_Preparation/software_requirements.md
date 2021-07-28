@@ -3,9 +3,9 @@ Some sessions require that customized software be installed on **your laptop**. 
 
 ** Last update:  7/20/2021; more updates expected
 
-### Using GitHub<a name="github"></a>
+### Using GitHub@SDSC:<a name="github"></a>
 
-See this quick-start guide: https://github.com/sdsc/sdsc-summer-institute-2021/tree/master/0_Preparation/using_github
+See this quick-start guide: https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github
 
 <hr>
 
