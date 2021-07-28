@@ -13,7 +13,7 @@ Institute staff will provide instructions for installing miniconda for the works
 
 ### Default applications location:
 **CHECK THIS**
-You have been set up with a default user environment: you do not need have a .bashrc file. You will see the code in these folder *by default*
+You have been set up with a default user environment: you do not need have a .bashrc file. You will see the code in these folders *by default*
 * link to /cms
 * link to singularity for SDSC SI20
 
