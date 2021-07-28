@@ -44,14 +44,14 @@ export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 
 ## Launch a notebook using the galyleo client:
 
-* Here is the command you will run (copy the entire line):
+* Here is the command you will run. Copy the entire line. You will need to update key parameters such as the *account*, the *notebook-dir*:
 ```
-galyleo.sh launch --account 'crl155' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/xdtr122" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
+galyleo.sh launch --account 'crl155' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
 ```
 
 * Here is an example of the output
 ```
-[xdtr122@login01 ~]$ galyleo.sh launch --account 'crl155' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/xdtr122" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
+[xdtr122@login01 ~]$ galyleo.sh launch --account 'crl155' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
 Preparing galyleo for launch into Jupyter orbit ...
 Listing all launch parameters ...
   command-line option      : value
