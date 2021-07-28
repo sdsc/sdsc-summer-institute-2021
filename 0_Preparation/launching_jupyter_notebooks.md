@@ -80,4 +80,22 @@ https://bobsled-demise-crudeness.expanse-user-content.sdsc.edu?token=278e742a58b
 
 ```
 
+* Copy and past the URL into your web browser and wait for the job to be launched on a compute node
+* Run the ```squeue``` command to check the status of your job:
+
+```
+[xdtr122@login01 ~]$ squeue -u xdtr122
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON) 
+           4543723    shared galyleo-  xdtr122  R      16:07      1 exp-1-05 
+ ```
+ 
+ * Cancel the job if you no longer need/want the notebook to run:
+ 
+```
+[xdtr122@login01 ~]$ scancel 4543723
+[xdtr122@login01 ~]$ squeue -u xdtr122
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON) 
+[xdtr122@login01 ~]$ 
+```
+
 
