@@ -4,6 +4,9 @@
 This file contains information needed to launch Juptyer
 Notebooks on Expanse using the Satellite client called "galyleo"
 
+* **Written by:** Mary Thomas (mpthomas at ucsd.edu)
+* **last update:** 7/28/2021
+
 ## load the sdsc module to see what project allocation you can use:
 
 ```
