@@ -8,7 +8,7 @@ Each member of the class, and instructors have a training account with a default
 Aliases and paths are pre-installed (see below) and if you replace the files you will not be able to run the example software.
 
 ## Miniconda installs: 
-Institute satff will provide instructions for installing miniconda for the workshop on the preparation day. Please do not re-install conda. If you have trouble, go to the Slack HelpDesk.
+Institute staff will provide instructions for installing miniconda for the workshop on the preparation day. Please do not re-install conda. If you have trouble, go to the Slack HelpDesk.
 
 
 ### Default applications location:
