@@ -25,12 +25,6 @@ both.  This tutorial will interleave between high-level use of `dask.array` and
 `dask.dataframe` (even sections) and low-level use of dask graphs and
 schedulers (odd sections.)
 
-## Look at the solutions to the problems
-
-They are hidden if you open the notebooks in JupyterLab, you can visualize them
-by looking at the notebooks in Github, and then copy-paste them to a live notebook
-for testing.
-
 ## On Expanse
 
 Use the singularity container at:
