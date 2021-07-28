@@ -25,6 +25,12 @@ both.  This tutorial will interleave between high-level use of `dask.array` and
 `dask.dataframe` (even sections) and low-level use of dask graphs and
 schedulers (odd sections.)
 
+## On Expanse
+
+Use the singularity container at:
+
+`/expanse/lustre/projects/sds166/zonca/dask-numba-si21.sif`
+
 ## Prepare
 
     conda env create -f binder/environment.yml 
