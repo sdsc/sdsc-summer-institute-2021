@@ -2,9 +2,10 @@
 #SBATCH --job-name="dask-workers"
 #SBATCH --output="dask-workers.%j.%N.out"
 #SBATCH --partition=compute
-#SBATCH --account=sds166
+#SBATCH --account=crl155
+####SBATCH --account=sds166
 #SBATCH --nodes=2
-#SBATCH --ntasks-per-node=24
+#SBATCH --ntasks-per-node=1
 #SBATCH --export=ALL
 #SBATCH -t 0:20:00
 ### REMOVE RESERVATION AFTER THE SUMMER INSTITUTE
