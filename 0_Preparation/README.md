@@ -74,8 +74,9 @@ The Summer Institute is a combination of in-depth lectures and hands-on learning
   * [Using GitHub on Expanse](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/using_github)
 
 ### Launching Jupyter Notebooks: <a name="jup-ntbks">
-  * [Launching Jupyter Notebooks - SI20 Instructions](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/launching_jupyter_notebooks.md)
-  * [Notebooks-101 Tutorial](https://hpc-training.sdsc.edu/notebooks-101/)
+  * View the presentation: [Running Secure Jupyter Notebooks on Expanse](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/MThomas-Running-Secure-Jupyter-Notebooks-on-Expanse.pdf)
+  * Follow the guide here: [Launching Jupyter Notebooks - SI20 Instructions](https://github.com/sdsc/sdsc-summer-institute-2021/blob/main/0_Preparation/launching_jupyter_notebooks.md)
+  * Read the full tutorial here: [Notebooks-101 Tutorial](https://hpc-training.sdsc.edu/notebooks-101/)
 
 
 [Back to Top](#top)
