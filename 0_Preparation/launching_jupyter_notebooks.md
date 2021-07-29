@@ -20,7 +20,7 @@ Check what project allocations you can use:
 ╭───┬─────────┬─────────┬──────────────┬──────┬───────────┬─────────────────╮
 │   │ NAME    │ PROJECT │ TG PROJECT   │ USED │ AVAILABLE │ USED BY PROJECT │
 ├───┼─────────┼─────────┼──────────────┼──────┼───────────┼─────────────────┤
-│ 1 │ abc123  │ xyz456  │ TG-CDA170005 │    0 │     10000 │              47 │
+│ 1 │ abc123  │ prj456  │ TG-CDA170005 │    0 │     10000 │              47 │
 ╰───┴─────────┴─────────┴──────────────┴──────┴───────────┴─────────────────╯
 ```
 
@@ -57,12 +57,12 @@ galyleo.sh launch --account 'use300' --partition 'shared' --cpus-per-task 1 --me
 
 * Here is an example of the output
 ```
-[abc123@login01 ~]$ galyleo.sh launch --account 'xyz456' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
+[abc123@login01 ~]$ galyleo.sh launch --account 'prj456' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
 Preparing galyleo for launch into Jupyter orbit ...
 Listing all launch parameters ...
   command-line option      : value
        | --mode            : local
-    -A | --account         : crl155
+    -A | --account         : prj456 
     -R | --reservation     : 
     -p | --partition       : shared
     -q | --qos             : 
@@ -75,7 +75,7 @@ Listing all launch parameters ...
        | --gres            : 
     -t | --time-limit      : 00:30:00
     -j | --jupyter         : notebook
-    -d | --notebook-dir    : /home/xdtr122
+    -d | --notebook-dir    : /home/abc123
     -s | --sif             : /cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif
     -B | --bind            : 
        | --nv              : 
