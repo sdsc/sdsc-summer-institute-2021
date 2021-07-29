@@ -5,8 +5,8 @@
 ### run dask workers on the GPU nodes
 #SBATCH --partition=gpu-shared
 #SBATCH --gpus=2
-##SBATCH --account=crl155
-#SBATCH --account=sds166
+#SBATCH --account=crl155
+##SBATCH --account=sds166
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=2
 #SBATCH --cpus-per-task=20
