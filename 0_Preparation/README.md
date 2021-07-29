@@ -16,7 +16,7 @@ To help you get the most out of this workshop, this section contains a set of de
 * [Software Requirements](#software)
 * [Preparation Activities](#prep-activities)
    * [Basic HPC Skills](#basic-skills)
-   * [Launching Jupyter Notebooks](#jupy-ntbks)
+   * [Launching Jupyter Notebooks](#jup-ntbks)
 
   
 ## Expanse User Guide <a name="expanse-guide"></a>
