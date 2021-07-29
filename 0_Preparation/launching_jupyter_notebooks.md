@@ -37,18 +37,22 @@ Receiving objects: 100% (305/305), 11.23 MiB | 19.43 MiB/s, done.
 Resolving deltas: 100% (93/93), done.
 ```
 
-## Load the ENV path to galyleo.sh
+## Launch a notebook using the galyleo client:
+
+### Load the ENV path to galyleo.sh
 ```
 export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 ```
 
-## Launch a notebook using the galyleo client:
-
 ### Launch on a CPU:
 
-* Here is the command you will run. Copy the entire line. You will need to update key parameters such as the *account*, the *notebook-dir*:
+* Here is the command you will run. Copy the entire line. You will need to update key parameters including:
+  * username
+  * allocation account/project ID
+  * notebook-dir
+  
 ```
-galyleo.sh launch --account 'xyx456' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
+galyleo.sh launch --account 'use300' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'lab' --notebook-dir "/home/mthomas" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
 ```
 
 * Here is an example of the output
