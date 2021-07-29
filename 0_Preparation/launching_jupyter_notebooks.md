@@ -12,22 +12,22 @@ the Satellite client called "galyleo"
 Check what project allocations you can use:
 
 ```
-[xdtr122@login01 ~]$ module load sdsc
-[xdtr122@login01 ~]$ expanse-client -a user
+[abc123@login01 ~]$ module load sdsc
+[abc123@login01 ~]$ expanse-client -a user
 
  Resource  expanse 
 
 ╭───┬─────────┬─────────┬──────────────┬──────┬───────────┬─────────────────╮
 │   │ NAME    │ PROJECT │ TG PROJECT   │ USED │ AVAILABLE │ USED BY PROJECT │
 ├───┼─────────┼─────────┼──────────────┼──────┼───────────┼─────────────────┤
-│ 1 │ xdtr122 │ crl155  │ TG-CDA170005 │    0 │     10000 │              47 │
+│ 1 │ abc123  │ xyz456  │ TG-CDA170005 │    0 │     10000 │              47 │
 ╰───┴─────────┴─────────┴──────────────┴──────┴───────────┴─────────────────╯
 ```
 
 ## Clone the Notebook examples repo:
 
 ```
-[xdtr122@login01 ~]$ git clone https://github.com/sdsc-hpc-training-org/notebook-examples
+[abc123@login01 ~]$ git clone https://github.com/sdsc-hpc-training-org/notebook-examples
 Cloning into 'notebook-examples'...
 remote: Enumerating objects: 305, done.
 remote: Counting objects: 100% (98/98), done.
@@ -48,12 +48,12 @@ export PATH="/cm/shared/apps/sdsc/galyleo:${PATH}"
 
 * Here is the command you will run. Copy the entire line. You will need to update key parameters such as the *account*, the *notebook-dir*:
 ```
-galyleo.sh launch --account 'crl155' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
+galyleo.sh launch --account 'xyx456' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
 ```
 
 * Here is an example of the output
 ```
-[xdtr122@login01 ~]$ galyleo.sh launch --account 'crl155' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
+[abc123@login01 ~]$ galyleo.sh launch --account 'xyz456' --partition 'shared' --cpus-per-task 1 --memory-per-node 1 --time-limit 00:30:00 --jupyter 'notebook' --notebook-dir "/home/$USER" --env-modules 'singularitypro' --sif '/cm/shared/apps/containers/singularity/tensorflow/tensorflow-latest.sif'
 Preparing galyleo for launch into Jupyter orbit ...
 Listing all launch parameters ...
   command-line option      : value
@@ -88,7 +88,7 @@ Please copy and paste the HTTPS URL provided below into your web browser.
 Do not share this URL with others. It is the password to your Jupyter notebook session.
 Your Jupyter notebook session will begin once compute resources are allocated to your job by the scheduler.
 https://bobsled-demise-crudeness.expanse-user-content.sdsc.edu?token=278e742a58b7d49d4c01c825b3237779
-[xdtr122@login01 ~]$
+[abc123@login01 ~]$
 
 
 ```
@@ -97,18 +97,18 @@ https://bobsled-demise-crudeness.expanse-user-content.sdsc.edu?token=278e742a58b
 * Run the ```squeue``` command to check the status of your job:
 
 ```
-[xdtr122@login01 ~]$ squeue -u xdtr122
+[abc123@login01 ~]$ squeue -u $USER
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON) 
-           4543723    shared galyleo-  xdtr122  R      16:07      1 exp-1-05 
+           4543723    shared   galyleo-    abc123  R      16:07      1 exp-1-05 
  ```
  
  * Cancel the job if you no longer need/want the notebook to run:
  
 ```
-[xdtr122@login01 ~]$ scancel 4543723
-[xdtr122@login01 ~]$ squeue -u xdtr122
+[abc123@login01 ~]$ scancel 4543723
+[abc123@login01 ~]$ squeue -u abc123
              JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON) 
-[xdtr122@login01 ~]$ 
+[abc123@login01 ~]$ 
 ```
 
 
