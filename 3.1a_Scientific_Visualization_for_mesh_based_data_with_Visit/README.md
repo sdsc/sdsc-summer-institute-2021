@@ -15,8 +15,10 @@ This tutorial will provide a high-level overview of scientific visualization tec
 * [Download](http://users.sdsc.edu/~amit/scivis-tutorial/visit_data_files.zip) sample data. Unzip this file and move it to your Home directory.
 
 * Download VisIt host profile for Expanse: [visit3.1.x-expanse-host-profile.zip](http://users.sdsc.edu/~amit/scivis-tutorial/visit3.1.x-expanse-host-profile.zip)
-Unzip it, then move the xml files (not the unzipped folder) to following location. These locations are not created unless VisIt is started once. 
+Unzip it, then move the xml files (not the unzipped folder) to following location. These locations are not created unless VisIt is started once.
+
 Linux and Mac: ~/.visit/hosts/ 
+
 Windows: C:/users/username/Documents/visit/hosts/
 
 * Restart visit to the load the newly added host profiles.
