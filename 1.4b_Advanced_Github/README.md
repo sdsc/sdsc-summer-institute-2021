@@ -18,3 +18,7 @@ You should be already familiar with creating Pull Requests, merging and rebasing
 
 * [Youtube playlist](https://www.youtube.com/playlist?list=PLSO-KmvudTTtQ19g7ATjnIJja2EsC2dQN)
 * [Coordination slides](https://docs.google.com/presentation/d/1u684uxzVNh_pEkzUzkJ6PXnw-2mCGPkd80bsFJe372E/edit?usp=sharing)
+
+### Solution
+
+Step by step walkthrough with all the commands <https://github.com/zonca/conversion_tofix/tree/sol>
