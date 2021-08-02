@@ -12,9 +12,9 @@ This tutorial will provide a high-level overview of scientific visualization tec
 
 * Test run VisIt application on your laptop to make sure it works. On Mac If asked grant VisIt application permission to accept incoming/outgoing connections when prompted, if not granted VisIt won't be able to perform remote visualization on HPC clusters.   
 
-* [Download](http://users.sdsc.edu/~amit/scivis-tutorial/visit_data_files.zip) sample data. Unzip this file and move it to your Home directory.
+* [Download: visit_data_files.zip](http://users.sdsc.edu/~amit/scivis-tutorial/visit_data_files.zip) sample data. Unzip this file and move it to your Home directory.
 
-* Download VisIt host profile for Expanse: [visit3.1.x-expanse-host-profile.zip](http://users.sdsc.edu/~amit/scivis-tutorial/visit3.1.x-expanse-host-profile.zip)
+* [Download: visit3.1.x-expanse-host-profile.zip](http://users.sdsc.edu/~amit/scivis-tutorial/visit3.1.x-expanse-host-profile.zip) VisIt host profile for Expanse.
 Unzip it, then move the xml files (not the unzipped folder) to following location. These locations are not created unless VisIt is started once.
 
 Linux and Mac: ~/.visit/hosts/ 
