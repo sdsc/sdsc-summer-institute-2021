@@ -9,7 +9,7 @@ All tutorial slides are available for [downloaded](http://users.sdsc.edu/~amit/p
 
 ### Hands on exercises
 
-* Etch a sketch based for [tabular data decription](https://mas-dse.github.io/DSE241/2018/data/exercise1-olympics-README.txt)
+* Etch a sketch for [tabular data description](https://mas-dse.github.io/DSE241/2018/data/exercise1-olympics-README.txt)
 * If necessary to refine the sketch use actual [data in CSV format](https://mas-dse.github.io/DSE241/2018/data/exercise2-olympics.csv)
 * Fix an existing visualization from this [list](https://mas-dse.github.io/DSE241/2020/fixables/)
 
