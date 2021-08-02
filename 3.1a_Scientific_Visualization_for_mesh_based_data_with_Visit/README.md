@@ -20,3 +20,14 @@ Linux and Mac: ~/.visit/hosts/
 Windows: C:/users/username/Documents/visit/hosts/
 
 * Restart visit to the load the newly added host profiles.
+
+## Agenda
+The tutorial comprises of four closely related sessions as follows:
+
+* Visualization fundamentals: Lecture - Assay of standard techniques and their utility (45 min)
+
+* Introduction to VisIt software - Perform basic tasks in VisIt (Hands-on, 40mins)
+
+* Perform sophisticated tasks with VisIt (Hands-on, 40 mins)
+
+* Remote visualization with VisIt on Expanse cluster at SDSC (Hands-on, 20 mins, Training accounts will be provided)
