@@ -28,5 +28,5 @@ We just ask that you limit yourself to two slides and make sure that your name a
 * Click **Create pull request**  to confirm it
 * If you made it correctly, your pull request should show up at <https://github.com/sdsc/sdsc-summer-institute-2021/pulls> like the example Pull Request I made: <https://github.com/sdsc/sdsc-summer-institute-2018/pull/14>
 
-We will concatenate all the slides into a single deck in alphabetic order on Wednesday at noon.
+We will concatenate all the slides into a single deck in alphabetic order on Wednesday at 9am (PDT).
 
