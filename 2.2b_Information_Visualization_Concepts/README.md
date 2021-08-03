@@ -5,8 +5,10 @@ This tutorial will provide a ground up understanding of information visualizatio
 
 ### Slides and sticky notes
 
-[download slides](http://users.sdsc.edu/~amit/datavis-tutorial/datavis-lecture-slides.zip)
-[download sticky notes](http://users.sdsc.edu/~amit/datavis-tutorial/datavis-sticky-notes.zip)
+[Download slides](http://users.sdsc.edu/~amit/datavis-tutorial/datavis-lecture-slides.zip)
+
+[Download sticky notes](http://users.sdsc.edu/~amit/datavis-tutorial/datavis-sticky-notes.zip)
+
 
 ### Hands on exercises
 
