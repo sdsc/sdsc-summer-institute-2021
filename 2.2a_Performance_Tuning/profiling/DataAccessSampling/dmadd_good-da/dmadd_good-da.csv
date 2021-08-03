@@ -42,6 +42,7 @@ FUNCTION,"Misalign access","CPU clocks","Retired Instructions","DC misses","DC r
 "mem_cgroup_throttle_swaprate",457,301,252,61,142,8,0.0242,0.0563,0.8372,1.1944,0.1813,0.0032
 "release_pages",0,298,626,73,39,3,0.0117,0.0062,2.1007,0.4760,0.0000,0.0005
 
+
 "HOT PROCESSES (Sort Event - CPU clocks)"
 PROCESS,"Misalign access","CPU clocks","Retired Instructions","DC misses","DC refills L2/sys","L1 DTLB Misses","DC miss rate","DC refill rate","IPC","CPI","Misalign rate","DTLB L1M rate"
 /home/sinkovit/profiling_tutorial/DataAccessSampling/dmadd_good (PID - 70527),18231,39628,28528,17895,10381,239,0.0627,0.0364,0.7199,1.3891,0.0639,0.0008
