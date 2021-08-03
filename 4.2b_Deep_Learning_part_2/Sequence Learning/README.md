@@ -1,1 +1,1 @@
-## Slides and exercise for Sequence learning with Keras/Tensorflow ##
+## Notebook for exercise for Sequence learning with Keras/Tensorflow ##
