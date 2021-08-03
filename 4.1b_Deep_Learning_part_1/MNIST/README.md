@@ -1,1 +1,1 @@
-##MNIST exercises ##
+## MNIST exercises ##
