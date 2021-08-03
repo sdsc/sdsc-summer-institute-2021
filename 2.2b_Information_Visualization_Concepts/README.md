@@ -18,4 +18,4 @@ This tutorial will provide a ground up understanding of information visualizatio
 
 ### Resources
 
-[See](https://mas-dse.github.io/DSE241/2020/resources/) listing of programming and application tools is available  
+[See](https://mas-dse.github.io/DSE241/2021/resources/) listing of programming and application tools is available  
