@@ -15,6 +15,8 @@ This tutorial will provide a ground up understanding of information visualizatio
 * Etch a sketch for [tabular data description](https://mas-dse.github.io/DSE241/2018/data/exercise1-olympics-README.txt). If necessary view actual [data in CSV format](https://mas-dse.github.io/DSE241/2018/data/exercise2-olympics.csv)
 * Fix an existing visualization from this [list](https://mas-dse.github.io/DSE241/2020/fixables/)
 
+### Textbook 
+Visualization Analysis and Design, Tamara Munzner (A K Peters Visualization Series, CRC Press, 2014)
 
 ### Resources
 
