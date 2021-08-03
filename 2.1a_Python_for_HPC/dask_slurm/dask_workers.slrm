@@ -1,17 +1,14 @@
 #!/bin/bash
 #SBATCH --job-name="dask-workers"
 #SBATCH --output="dask-workers.%j.%N.out"
-### We are not using GPUs but we have them reserved, so let's
-### run dask workers on the GPU nodes
-#SBATCH --partition=gpu-shared
-#SBATCH --gpus=2
+#SBATCH --partition=shared
 #SBATCH --account=crl155
 ##SBATCH --account=sds166
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=2
-#SBATCH --cpus-per-task=20
+#SBATCH --cpus-per-task=16
 #SBATCH --export=ALL
-#SBATCH -t 0:20:00
+#SBATCH -t 0:10:00
 ### REMOVE RESERVATION AFTER THE SUMMER INSTITUTE
 #SBATCH --reservation=SI2021RES
 
