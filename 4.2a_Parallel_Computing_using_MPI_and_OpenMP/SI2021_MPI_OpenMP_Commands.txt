@@ -1,0 +1,76 @@
+### OpenMP Examples
+cd $HOME/PARALLEL/OPENMP
+module reset
+module load gcc
+make clean
+make
+sbatch --res=SI2021RES pi_openmp.sb
+sbatch --res=SI2021RES heat_openmp.sb
+
+### MPI Examples
+
+module reset
+module load gcc
+module load mvapich2
+
+## Simple Pi Example
+cd $HOME/PARALLEL/SIMPLE
+mpicc -o pi_mpi.exe pi_mpi.c
+sbatch --res=SI2021RES pi_mpi.sb
+  
+## Point to Point Examples
+cd $HOME/PARALLEL/PTOP
+
+#Blocking
+mpicc -o blocking.exe blocking.c
+sbatch --res=SI2021RES blocking.sb
+
+#Deadlock
+mpicc -o deadlock.exe deadlock.c
+sbatch --res=SI2021RES deadlock.sb
+
+#Deadlock first fix  
+mpicc -o deadlock-fix1.exe deadlock-fix1.c
+sbatch --res=SI2021RES deadlock-fix1.sb
+
+#Nonblocking Example
+mpicc -o nonblocking.exe nonblocking.c
+sbatch --res=SI2021RES nonblocking.sb
+
+#Deadlock second fix (nonblocking)
+mpicc -o deadlock-fix2-nb.exe deadlock-fix2-nb.c
+sbatch --res=SI2021RES deadlock-fix2-nb.sb
+
+##Collectives
+cd $HOME/PARALLEL/COLLECTIVES
+
+#Broadcast Example
+mpif90 -o bcast.exe bcast.f90
+sbatch --res=SI2021RES bcast.sb
+
+#Factorial Example
+mpif90 -o factorial.exe factorial.f90
+sbatch --res=SI2021RES factorial.sb
+
+#All Reduce Example
+mpif90 -o allreduce.exe allreduce.f90
+sbatch --res=SI2021RES allreduce.sb
+
+### Domain Decomposition Example (MPI)
+cd $HOME/PARALLEL/DOMAIN
+mpif90 -ffixed-form -o heat_mpi.exe  heat_mpi.f90
+sbatch --res=SI2021RES heat_mpi.sb
+
+### Profiling Example
+
+cd $HOME/PARALLEL/MISC
+
+module reset
+module load gcc
+module load openmpi
+module load mpip
+
+mpif90 -ffixed-form -g -o heat_mpi_profile.exe heat_mpi.f90 -L$MPIPHOME/lib -lmpiP -L/cm/shared/apps/spack/cpu/opt/spack/linux-centos8-zen2/gcc-10.2.0/libunwind-1.4.0-2jrfg2ur46us6d3yaz44xs5c3k3bi4lx/lib -lunwind
+
+## Submit line
+sbatch --res=SI2021RES heat_mpi_profile.sb
