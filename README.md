@@ -9,7 +9,7 @@ This repository hosts all material and slides of the presentations at the Summer
 
 ## Interactive Videos
 * A link to the recorded sessions will be posted [here](https://www.sdsc.edu/event_items/202108_sdscsi.html) as soon as they have been completed. 
-* For a full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
+* A full catalog of all our trainings at SDSC can be found [here](https://www.sdsc.edu/education_and_training/training_hpc.html#catalog).
 
 ## Aliases, symlinks and reservations
 For your convenience, we’ve create aliases and symlinks for the Summer Institute
