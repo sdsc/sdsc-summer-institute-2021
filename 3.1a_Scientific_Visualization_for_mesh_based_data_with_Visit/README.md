@@ -36,4 +36,4 @@ The tutorial comprises of four closely related sessions as follows:
 
 
 ## Slides
-(Download slides)[http://users.sdsc.edu/~amit/scivis-tutorial/scivis-tutorial.pdf]
+[Download slides](http://users.sdsc.edu/~amit/scivis-tutorial/scivis-tutorial.pdf)
