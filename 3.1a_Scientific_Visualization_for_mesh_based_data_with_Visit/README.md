@@ -33,3 +33,7 @@ The tutorial comprises of four closely related sessions as follows:
 * Perform sophisticated tasks with VisIt (Hands-on, 40 mins)
 
 * Remote visualization with VisIt on Expanse cluster at SDSC (Hands-on, 20 mins, Training accounts will be provided)
+
+
+## Slides
+(Download slides)[http://users.sdsc.edu/~amit/scivis-tutorial/scivis-tutorial.pdf]
