@@ -5,7 +5,8 @@
 This repository hosts all material and slides of the presentations at the Summer Institute
 
 1. [Agenda](https://na.eventscloud.com/website/21339/agenda/)
-1. See also [last year's material](https://github.com/sdsc/sdsc-summer-institute-2020)
+2. [Interactive Videos][https://education.sdsc.edu/training/interactive/sdsc_si21/index.html]
+3. See also [last year's material](https://github.com/sdsc/sdsc-summer-institute-2020)
 
 ## Interactive Videos
 * A link to the recorded sessions will be posted [here](https://www.sdsc.edu/event_items/202108_sdscsi.html) as soon as they have been completed. 
