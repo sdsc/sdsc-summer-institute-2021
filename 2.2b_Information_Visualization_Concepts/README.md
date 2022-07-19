@@ -10,7 +10,7 @@ This tutorial will provide a ground up understanding of information visualizatio
 [Download sticky notes](http://users.sdsc.edu/~amit/datavis-tutorial/datavis-sticky-notes.zip)
 
 
-### Hands on exercises
+### Homework exercises
 
 * Etch a sketch for [tabular data description](https://mas-dse.github.io/DSE241/2018/data/exercise1-olympics-README.txt). If necessary view actual [data in CSV format](https://mas-dse.github.io/DSE241/2018/data/exercise2-olympics.csv)
 * Fix an existing visualization from this [list](https://mas-dse.github.io/DSE241/2020/fixables/)
@@ -20,4 +20,4 @@ Visualization Analysis and Design, Tamara Munzner (A K Peters Visualization Seri
 
 ### Resources
 
-[See](https://mas-dse.github.io/DSE241/2021/resources/) listing of programming and application tools is available  
+[See](https://mas-dse.github.io/DSE241/2022/resources/) listing of programming and application tools is available  
