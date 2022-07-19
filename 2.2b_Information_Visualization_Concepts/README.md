@@ -1,5 +1,5 @@
 ## 2.2b. Information Visualization Concepts
-Amit Chourasia, Senior Visualizaton Scientist, SDSC
+Amit Chourasia, Associate Division Director, SDSC
 
 This tutorial will provide a ground up understanding of information visualization concepts and how they can be leveraged to select and use effective visual idioms for different data types such spreadsheet data, geospatial, graph, etc.). Example visualization designs and fixing problems with existing visualizations will be discussed. Practical guidelines visualization design will be discussed as well.
 
